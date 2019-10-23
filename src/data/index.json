@@ -1,0 +1,35 @@
+[
+  {
+    "__comments": "These are some comments",
+    "title": "Connected Cannabis Co.",
+    "description": "Welcome to our company website",
+    "text": "We're on a mission to provide the best premium flowers on the market.",
+    "subtitle": "Featured Flowers",
+    "home_items": [
+      {
+        "name": "GUSHERS",
+        "image": "images/gushers.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
+        "completed": "Summer 2019"
+      },
+      {
+        "name": "BISCOTTI X GUSHERS",
+        "image": "images/bisgush.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
+        "completed": "Summer 2019"
+      },
+      {
+        "name": "GELATO 41",
+        "image": "images/gelato.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
+        "completed": "Spring 2019"
+      },
+      {
+        "name": "BISCOTTI",
+        "image": "images/biscotti.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
+        "completed": "Spring 2019"
+      }
+    ]
+  }
+]
